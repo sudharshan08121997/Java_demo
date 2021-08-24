@@ -3,6 +3,7 @@ class A
 	public void display()
 	{
 		System.out.println("I m Display method from A");
+		System.out.println("Hi ");
 	}
 }
 public class Intro {
